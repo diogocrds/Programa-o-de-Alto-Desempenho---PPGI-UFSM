@@ -63,3 +63,6 @@ Para a medição dos tempos de execução, foi utilizada a biblioteca *chronus* 
 
 
 A tabela dos resultados mostra uma consistência na redução do tempo de execução do algoritmo de classificação conforme o raio de percolação é aumentado e o número de grupos classificados diminui.
+
+##Pesquisas Relacionadas
+SILVA, Isaac Dayan Bastos da. (2008). **Análise e Comparação de Algoritmos de Percolação**. Universidade Federal do Rio Grande do Norte. [Link](https://repositorio.ufrn.br/jspui/bitstream/123456789/17000/1/IsaacDBS.pdf)
